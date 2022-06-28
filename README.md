@@ -189,7 +189,48 @@ As a reminder, here are three main steps to follow when creating a WBS:
 
 ---
 
-# Week 2
+# Week 2 Intro: Building a project plan
+
+---
+
+### Introduction: Building a project plan video notes
+
+How project plan components are connected
+You have learned that at the center of the project plan is the project schedule, which helps you estimate the amount of time it will take to complete the project and provides the team with a way to track the project’s progress against your goals. In addition to the schedule, you should also include the following components in your project plan: 
+
+- Scope and goals
+
+- Work Breakdown Structure (WBS)
+
+- Budget 
+
+- Management plans
+
+---
+
+### Making realistic time estimates
+
+**Time estimation** is a prediction of the total amount of time required to complete a task. 
+
+**Effort estimation** is a prediction of the amount and difficulty of active work required to complete a task. 
+
+Effort estimation differs from time estimation in that effort quantifies the amount of time it will take a person to complete work on a task. On the flip side, time refers to the overall duration of the task from start to finish. That includes inactive time.
+
+**Unrealistic effort estimates** this happens when you underestimate the amount of time it will take to complete a task. Often, the culprit for under estimating effort is optimism. 
+
+Too much optimism can lead you to overlook potential risks that could set your plans behind schedule. 
+
+Though it might be tempting to make the optimistic assumption that tasks will be executed exactly according to plan, there is always a possibility that there will be setbacks. 
+
+**So, how do you try to avoid making unrealistic effort estimates?** You can do this by communicating with teammates assigned to each task. Your teammates will have the most realistic understanding of the amount of work required to complete a task and should be able to provide you with the best estimate.
+
+A **buffer** is extra time added to the end of a task or a project to account for unexpected slowdowns or delays in work progress. Buffers are important because they can provide some leeway, just in case your time and effort estimates turn out to fall a bit short. **With a buffer, you can add extra time into your schedule, and your project shouldn't fall off track when task delays inevitably arise.** 
+
+**There are two types of buffers** you can use when planning your schedule: **task buffers** and **project buffers**. First, we have task buffers, which refer to extra time tacked on to a specific task. Task buffers should be used primarily for tasks that are out of the project team's control. 
+
+**Project buffers** differ from task buffers in that they provide extra time to the overall project schedule. Rather than adding a buffer to every task, you can add extra time as a buffer towards the end of your project schedule. Then you can use that extra time, two to three days, for example, as needed throughout the project.
+
+
 
 
 
