@@ -230,10 +230,142 @@ A **buffer** is extra time added to the end of a task or a project to account fo
 
 **Project buffers** differ from task buffers in that they provide extra time to the overall project schedule. Rather than adding a buffer to every task, you can add extra time as a buffer towards the end of your project schedule. Then you can use that extra time, two to three days, for example, as needed throughout the project.
 
+---
+
+### Reflection: Time estimation
+
+>Consider the following scenario: You are to oversee the project for a new textbook release for the fall semester. You’ve done something similar before, so you feel confident speaking with the stakeholders, project sponsor, and faculty director. You assure them the project will meet the 6-month deadline.
+>
+>Around three months into the project, you notice that your writers consistently miss the writing deadlines you assign. Then you learn that a printer upgrade may delay printing the text books. Unfortunately, you forgot to include this delay in your time estimation. Now you have to tell the stakeholders that the project may not launch in time for fall. 
+> 
+
+**A:** The project manager might identify the printer technology as a task that is out of the team’s control and add a task buffer. Additionally, when the project manager first learns about the printer issue, they should immediately update the time estimation and inform stakeholders.
+
+The project manager can also look towards potential time saving activities, including: eliminate tasks, increase the team size to get more work done and meet the deadline, and streamline any of the activities in order to complete them in parallel with other tasks.
+
+----
+
+### Capacity planning and the critical path - video notes
+
+**Capacity** refers to the amount of work that the people or resources assigned to the project can reasonably complete in a set period of time.
+
+**Capacity planning** refers to the act of allocating people, and resources to project tasks. And determining whether or not you have the necessary resources required to complete the work on time. 
+
+**The critical path** refers to the list of project milestones that you must reach in order to meet the project goal on schedule. As well as the mandatory tasks that contribute to the completion of each milestone.
+
+The critical path includes the bare minimum number of tasks and milestones you need to reach your project goal. If your team is unable to complete any of those tasks on time, that might result in a project delay.
+
+There are a few factors that can impact capacity, and capacity planning. 
+
+- **First you need to be able to identify which task can happen in parallel**, which means they can happen at the same time as other tasks.
+- **You will also need to identify which task can happen sequentially**, meaning they must happen in a specific order.
+- **Determine which project tasks have a fixed start date.** A fixed start date refers to the date on which you must start work on your task in order to achieve your goal. Identifying whether or not your tasks have a fixed start dates can help with capacity planning. Because it helps ensure that you'll have the right number of people available to complete tasks on time. 
+- **Some tasks might have an earliest start date.** An earliest start date refers to the earliest date in which you can begin working on a task. Identifying an earlier start date can set accurate expectations for when vendors, and team members will be up and running on the project. This can help you plan your work, and prioritize your work accordingly. 
+- **Another best practice for capacity planning, and creating a critical path includes identifying if a task has float, also sometimes known as slack.** Float refers to the amount of time you can wait to begin a task before it impacts the project schedule, and threatens the project outcome. These are high priority tasks that have low to no wiggle room. 
+
+Float refers to the amount of time you can wait to begin a task before it impacts the project schedule, and threatens the project outcome. 
+
+These are high priority tasks that have low to no wiggle room. This helps reinforce what is, and what is not on your critical path. For instance, tasks on the critical path should have zero float, meaning there is no room for delays. And tasks that do have float are not a part of the critical path.
+
+Tasks on the critical path should have zero float, meaning there is no room for delays. And tasks that do have float are not a part of the critical path. For example, the shipment of plants to a priority customer who has requested their delivery on a specific date is a task that has zero float.
+
+---
+
+### Getting accurate time estimates from your team - video notes
 
 
+**Soft skills** are personal characteristics that help people work effectively with others.
+
+Soft skills for accurate estimation 
+
+- Asking the right questions 
+     - An open-ended question is a question that cannot be answered with a yes or a no. The answer provides the relevant details of what you need to know.
+- Negotiating effectively 
+     - Part of your job as the project manager is to bridge the gap between high-level goals of the project and the day-to-day perspective of your team. While your project might be your number one priority, it's possible that people on your project team have competing priorities on other teams to keep track of, as well. Negotiating effectively can help you influence a team member to make your project their priority, by collaborating to find an outcome that works for everyone. 
+- Practicing empathy 
+     -  Empathy refers to a person's ability to relate to the thoughts and feelings of others. Practicing empathy at work can be a very effective way to build trust with your team. Your teammates are humans, and each person can only do so much. 
+
+**People like to feel their work is valued, so part of empathy is remembering to always be appreciative of the work, collaboration, and support that you're getting from the team.**  
+
+---
+
+### Developing a project schedule - video notes
+
+an **anchor** of a good project plan is a clear schedule containing all the tasks of a project, their owners, and when they need to be completed. 
+
+A **Gantt chart** is a horizontal bar chart that maps out a project schedule. 
+
+Fun fact: the chart gets its name from American engineer, Henry Gantt, who helped popularize the chart in the early 1900s. 
+
+**So, why did people working in project management find this chart useful?** Well, it's a highly visual representation of a projects tasks with clear breakdowns of who's responsible for the work and when those tasks are due. 
+
+For many people, a visual aid that builds upon written directions can be a helpful way to understand and synthesize the work they need to do, when they need to complete it, and how their individual tasks connect to the other tasks in a project. Gantt charts are almost like calendars.
+
+They feature the start and end dates of each task, and the bars align with how much time is devoted to each of those tasks.
+
+---
+
+### Project plan best practices
 
 
+Project plan best practices
+- Carefully review deliverables, milestones, and tasks
+- Give yourself time to plan 
+- Recognize and plan for the inevitale: things will go wrong
+- Stay curious 
+- Champion your plan
 
+To keep the project running smoothly, it's also important to understand the expectations, priorities, risk assessments, and communication styles of your stakeholders and vendors.
+
+---
+
+### Creating a project plan: Tools and templates
+
+**Project plans** are critical because they are used to capture the scope and time it takes to complete a project. The project plan is essentially the project’s blueprint—it lays out all of the activities and milestones that your team needs to achieve in order to successfully complete the project. Project plans come in various shapes, sizes, and forms. Depending on the project you are managing, the template you use may vary, and some companies even have standard templates they require their project managers to use. 
+
+In the previous videos, you learned about various tools and techniques to create a project plan. But how do you know which tools and techniques to use and when? As a general rule, it is best to use a spreadsheet for a simple project and project management software for a more complex project. Regardless of what tool you use, be sure to include this key information: 
+
+- **Task ID numbers** or **task names**: You might end up with dozens, hundreds, or even thousands of tasks in a project. Assigning a task ID or name makes it easy to find and reference a task when communicating with team members and stakeholders. 
+
+- **Task durations:** A task duration is the amount of time you estimate that task should take. Adding task durations to your project plan helps you organize and prioritize the tasks in the project to help ensure you hit your goal on time. 
+
+- **Start and finish dates:** Including start and finish dates for each task helps you track whether you are progressing on time or not. 
+
+- **Who is responsible for what:** Including each team member’s role and responsibilities helps promote clarity and efficiency. As a best practice, assign an owner to each task, as well.
+
+#### Using a spreadsheet to build a project plan
+
+Spreadsheets are an excellent tool to use for project plans, particularly for projects that are less complex and that have a clear assignment of tasks. Spreadsheets can require a lot of manual input of information, but as a project manager, you may find that you like the control that spreadsheets provide. Spreadsheets are also customizable, so you can tailor them to your project’s needs. 
+
+The graphic below shows what a project plan for a website launch might look like in a simple spreadsheet.
+
+#### Work management tools
+
+There are many work management tool options available for you to utilize when planning your project. We covered some of these in previous videos, but as a refresher, it is important to keep in mind that every company, project manager, and customer has a work management tool preference. **You may come across tools like Smartsheet, Asana, Jira, Trello, and many more.** These tools allow for collaboration and communication at a task level. 
+
+---
+
+### Introduction to Kanban boards
+
+Kanban boards are a visual tool used to manage tasks and workflows. Kanban boards can be created on whiteboards, magnetic boards, poster boards, computer programs, and more. Tasks associated with the project are written on cards. These cards are placed in columns, which represent the progress made. 
+
+Although Kanban boards are useful for all kinds of projects, they are typically most suitable for project teams working in an Agile project management approach. You may remember that Agile project management is an iterative approach to managing projects that focuses on continuous releases and incorporates customer feedback with every iteration. Once you become a project manager and have created your project plan, you can decide whether a Kanban board is right for your project. 
+
+#### Purposes of a Kanban board
+Kanban boards are used to:
+
+- Give a quick visual understanding of work details and provide critical task information.
+
+- Facilitate handoffs between stakeholders, such as between development and testing resources or between team members who work on related tasks.
+
+- Help with capturing metrics and improving workflows.
+
+#### Using a Kanban board
+Before creating a board, it is best practice to gather the necessary information and lay out key elements, such as tasks, status, dates, and durations. That information is useful when building your board. 
+
+Let’s turn our focus to an example of a Kanban board below. Each colored rectangle is associated with a task. The tasks are represented horizontally across the effort timeline. Each column represents where the task is in relation to its completion. So as a task is started, it will move from to do, to in progress. When the project is almost ready to be released or complete, it will move to testing, and when it is tested and approved, it will move to done. Note that this is just one example of a Kanban board, and depending on the tool you use—such as software or a physical board—you can customize your board using various columns and cards. The board can also have rows for resources (team or person), to help visualize who is actively working on what.
+
+#### Kanban board software
+If you opt to use a software tool rather than a physical board, you have a few options. Asana and Trello are both great software tools to use if you are looking to introduce Kanban to your project. There are many options, so take the time to evaluate which is best for you and your project.
 
 
