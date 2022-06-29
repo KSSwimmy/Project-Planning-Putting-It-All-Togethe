@@ -368,4 +368,29 @@ Let’s turn our focus to an example of a Kanban board below. Each colored recta
 #### Kanban board software
 If you opt to use a software tool rather than a physical board, you have a few options. Asana and Trello are both great software tools to use if you are looking to introduce Kanban to your project. There are many options, so take the time to evaluate which is best for you and your project.
 
+---
+
+# Week 3
+
+### The importance of budget setting
+
+This ensures that you calculate the correct expenses for a particular period of time. This is considered a forecast. A forecast for your project budget is a cost estimate or a prediction over a period of time. You'll frequently review your project budget and it will evolve throughout the project life cycle.
+
+In project management, a budget is considered a deliverable. It is a success metric. The project budget is a tool to communicate exactly what is needed and when it is needed with stakeholders.
+
+Budget creation takes place in the initiation phase of your project. 
+ 
+Keep in mind that the budget will be adjusted as needed throughout the lifecycle of the project. Depending on your role in the company, you won't always be the sole creator of the budget.
+
+The budgeting process usually happens in conjunction with the scheduling process because the steps of the scheduling process are highly dependent on the costs. 
+
+**The project manager will collaborate with people on the project to create their estimations.** For the most part, after the cost estimating process has been completed, it's common for the project sponsor or another key stakeholder to review and approve estimation costs. 
+
+Ultimately, most projects are created to improve workforce productivity, increase revenue, or attempt to save costs within an organization.
+
+---
+
+
+
+
 
