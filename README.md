@@ -374,7 +374,7 @@ If you opt to use a software tool rather than a physical board, you have a few o
 
 ### The importance of budget setting
 
-This ensures that you calculate the correct expenses for a particular period of time. This is considered a forecast. A forecast for your project budget is a cost estimate or a prediction over a period of time. You'll frequently review your project budget and it will evolve throughout the project life cycle.
+A **forecast** for your project budget is a cost estimate or a prediction over a period of time. You'll frequently review your project budget and it will evolve throughout the project life cycle.
 
 In project management, a budget is considered a deliverable. It is a success metric. The project budget is a tool to communicate exactly what is needed and when it is needed with stakeholders.
 
@@ -389,8 +389,202 @@ The budgeting process usually happens in conjunction with the scheduling process
 Ultimately, most projects are created to improve workforce productivity, increase revenue, or attempt to save costs within an organization.
 
 ---
+### Key components of a project budget
 
+When creating a budget, a project manager must account for 
 
+- Understanding stakeholders needs 
+- budgeting for surprise expenses
+- maintaining adaptability
+- reviewing and reforecasting throughout the entire project.
 
+review your budget and sometimes reforecast, which means creating a separate revised budget based on how your project is tracking. 
+
+You'll need to determine resource cost rates. Resource cost rates are exactly what they sound like, the cost of a resource. Some examples of resources are labor, tools, equipment, materials, and software. You'll want to ask yourself, how much will each of these resources cost the company?
+
+**Contingency budget.** Contingency budget in the context of project management, is money that is included to cover potentially unforeseen events that aren't accounted for in a cost estimate.
+
+The **cost of quality** refers to all of the costs that are incurred to prevent issues with products, processes, or tasks. The cost of quality includes prevention costs, appraisal costs, internal failure costs, and external failure costs. 
+
+---
+
+### Project budgeting 101
+
+A **project budget** is the estimated monetary resources needed to achieve a project's goals and objectives. In previous lessons, we covered a wide range of information related to project budgets. Let’s recap to make sure you have the information and tools you need to create and manage your project’s budget.
+
+Budgets are typically created in the initiation and planning phases of your project. As with any other project management document, you need to continue to review and control the budget throughout the life cycle of your project. Your budget is more than just how much it will cost to complete the project—it is a helpful tool to reference when communicating with stakeholders and can double as a tracker for your project’s progress. Budgets also help control your costs and act as the baseline for the financial portion of the project. 
+
+Project budgeting best practices
+Here are a few tips to consider when creating your project budget:
+
+**Reference historical data:** Your project may be similar to a previous project your organization has worked on. It is important to review how that project’s budget was handled, find out what went well, and learn from any previous mistakes.
+
+**Utilize your team, mentors, or manager:** Get into the habit of asking for your team to double check your work to give you additional sets of eyes on your documents.
+
+**Time-phase your budget:** Time-phased budgeting allows you to allocate costs for project tasks over the projected timeline in which those expenses are planned to take place. By looking at your tasks against a timeline, you can track and compare planned versus actual costs over time and manage changes to your budget as necessary.
+
+**Check, check, and double check:** Make sure that your budget is accurate and error-free. Your budget will likely require approval from another department, such as finance or senior management, so do your best to ensure that it is as straightforward to understand as possible and that all of your calculations are correct.
+
+#### Categorize different types of costs
+
+There are different types of costs that your project will incur. For example, you may need to account for both **direct costs** and **indirect costs** in your project budget. Categorize these different types of costs in your budget so that you can ensure you are meeting the requirements of your organization and customer. 
+
+###### Direct costs
+
+These are costs for items that are necessary in order to complete your project. These costs can include:
+
+- Wages and salaries of employees and contractors 
+
+- Materials costs
+
+- Equipment rental costs
+
+- Software licenses 
+
+- Project-related travel and transportation costs
+
+- Staff training
+
+##### Indirect costs
+
+These are costs for items which do not directly lead to the completion of your project but are still essential for the project team to do their work. They are also referred to as overhead costs. These costs can include:
+
+- Administrative costs
+
+- Utilities
+
+- Insurance 
+
+- General office equipment 
+
+- Security
+
+#### Develop a baseline budget
+
+A **baseline budget** is an estimate of project costs that you start with at the beginning of your project. Once you have created a budget for your project and gotten it approved, you should publish this baseline and use it to compare against actual performance progress. This will give you insight into how your project budget is doing and allow you to make informed adjustments.
+
+It is important to continually monitor your project budget and make changes if necessary. Be aware that budget updates can require the same approvals as your initial budget. Also, you should “re-baseline” your budget if you make significant changes. Re-baselining refers to when you update or modify a project's baseline as a result of any approved change to the schedule, cost, or deliverable content. For example, if you have a significant change in your project scope, your budget will likely be impacted. In this instance, you would need to re-baseline in order to adhere to a realistic budget.
+
+---
+### Creating a project budget
+
+You'll find that as you get further along in the process, there are various resources and tactics that you can use **to make sure you aren't overestimating or underestimating**. You'll use techniques like researching: 
+- **historical data**
+     - historical data. This way, you can find out what past project managers did right and wrong. The more experienced you become as a project manager, the more historical data you will have to draw upon, and the better your estimations will be. 
+- **leveraging experts**
+     - To leverage something means to use it to its maximum advantage. Leveraging experts means gathering their insights to do something more effectively. Reaching out to colleagues who worked on a similar project in the past will be a great resource for you as an entry-level project manager.
+- **the bottom-up approach** 
+     - the bottom-up approach. This means thinking about all the parts of a project from the beginning to the end, including making a list of every material, resource, contract worker, or anything that comes with an associated cost, and adding all of that together. 
+- **confirming accuracy** 
+     - you'll want to double-check everything to confirm accuracy.
+- **setting your baseline**
+     - Your baseline is the dollar amount that you'll use to measure against, to find out if you're on track or not, and to measure the success of your project. Once you've set your baseline, you'll have to revisit that number and adjust it to match where the project is currently.
+
+With Project Plant Pals, we suggest 
+- Breaking the project down into tasks. That's the bottom-up approach. 
+- From there, we estimate the cost of each item, add those estimates together 
+- Add contingency and tax 
+- Seek overall approval on our budget from our key stakeholders. 
+
+---
+
+### Maintaining a project budget - video notes
+
+How can you tell if you're staying within your budget or not? Monitoring the budget is crucial for a project manager to enforce accountability in terms of spending.
+
+By monitoring your budget regularly, you'll be able to tell if the plans you set into action are actually being implemented on both a financial and operational level. 
+
+##### Time & materials
+
+You may have agreed in your contract that you get paid at certain milestones rather than at the end of the project. Fixed contracts are usually paid for when certain milestones are reached, whereas time and materials' contracts are usually paid for monthly based on the hours worked and other fees associated with the work, like travel and meals. 
+
+Cost control is a practice where a project manager identifies factors that might impact their budget and then creates effective actions to minimize variances.
+
+In order to control costs, you should **establish a sign-off plan and inform the appropriate stakeholders of any changes that occur.**
+
+**manage changes as they're made.** This involves updating forecasts or estimates and tracking everything. You never want to be surprised by budget changes, and you don't want to have to keep asking stakeholders for more money. You can prevent that by revisiting these numbers on a regular basis. 
+
+You'll also want to accept that **budget misses will happen**.
+
+Going under budget indicates that you may not have done a good job at initially estimating. Going under budget could also indicate that you could have spent more money on the project, meaning that you could have possibly had extra resources or better quality output, and it may mean that the budget for future projects will be slashed. 
+
+The best option is to adequately account for, adapt, and manage your budget with that risk in mind.
+
+Pop quiz
+
+>Kim, a producer at a mobile gaming company, is excited to launch the company’s first mobile game in February. Kim clearly maps out the tasks and schedule for each of the team’s developers. She considers working days and her commitments on other projects. 
+>
+>Kim realizes that in mid-December she did not account for the company’s mandatory two-week holiday shutdown in her schedule. It is too late to do anything, so she flags it to her manager and waits for the shutdown to happen. Did this project manager implement effective risk management and most likely stay under budget?
+
+**A:** No
+
+**A:** Once Kim identifies a risk, she should proactively work to manage that risk. While flagging it to a manager is a good first step, she needs to take additional steps. In this situation, a stronger risk management solution would be to flag to her manager and any relevant stakeholders and team members who need to be informed about the risk. 
+
+Once flagged, she should bring a plan to them on how to manage that risk. Kim might request two extra people to help her work on the launch or hire a contractor which is not bound by the two-week company shutdown to make up the difference. She could also recommend delaying the launch date. Kim should bring these proposals and options to her team and stakeholders and align on a solution to de-risk.
+
+---
+
+### Overcoming budgeting challenges
+
+#### Challenge 1: Budget pre-allocation
+You may encounter situations where your budget is already set before you even start the project. This is known as **budget pre-allocation.** Some organizations follow strict budgeting cycles, which can lead to cost estimations taking place before the scope of the project is completely defined.  
+
+If you are given a pre-allocated budget, it is important to work with your customer to set expectations on scope and deliverables within the allocated budget. To deliver a great product within your allocated budget will require detailed planning.
+
+A pre-allocated budget should also be routinely monitored to ensure the amounts you have budgeted are sufficient to meet your costs. Be sure to carefully track all expenses in your budget. Regularly match these expenses against your pre-allocated budget to ensure you have sufficient funds for the remainder of your project.
+
+Part of that planning includes making sure that you are tracking fixed and time- and materials-based expenses. Fixed contracts are usually paid for when certain milestones are reached. **Time and materials contracts** are usually paid for monthly, based on the hours worked and other fees associated with the work, such as travel and meal expenses.
+
+#### Challenge 2: Inaccurately calculating TCO
+Another budgeting pitfall you should try to avoid is underestimating the **total cost of ownership (TCO)** for project resources. TCO takes into account multiple elements that contribute to the cost of an item. It factors in the expenses associated with a product or service over its lifetime, rather than just upfront costs. 
+
+Let’s relate TCO to something more common, like owning a vehicle. Let’s say you buy a vehicle for a certain price, but then you also pay for things related to the vehicle, such as license fees, registration fees, and maintenance. If you add all of this up, you have your TCO for that vehicle. So now that you know what your TCO is, you may consider those fees before you buy your next vehicle. For example, you might opt for a vehicle with fewer maintenance requirements than one that requires more frequent service, since you know that will save you money overall. 
+
+The same concept applies to budgeting on a project. If you have a service requirement for a software technology that your team is using, for example, then it is important to budget for the costs of maintenance for that service. Additional types of costs you may need to account for when calculating TCO include warranties, supplies, required add-on costs, and upgrade costs.
+
+#### Challenge 3: Scope creep
+**Scope creep** is when changes, growth, and other factors affect the project’s scope at any point after the project begins. Scope creep causes additional work that wasn’t planned for, so scope creep can also impact your budget. 
+
+- There are several factors that can lead to scope creep, such as: 
+
+- A vague Statement of Work (SoW)
+
+- Conversations and agreements about the project that aren’t officially documented
+
+- Unattainable timeframes and deadlines
+
+- Last-minute asks from priority stakeholders
+
+Addressing these factors as you plan your project can help prevent scope creep from impacting your budget.
+
+---
+
+### Understanding procurement
+
+**procurement** means obtaining all of the materials, services, and supplies required to complete the project. You'll need to procure vendors as well. Vendors are individuals or businesses who provide essential goods and services. Therefore, think of vendor management as procurement for individuals or businesses.
+
+Vendor management entails: 
+- sourcing vendors 
+- getting quotes for their work, 
+- deciphering which vendors will best fulfill your needs, 
+- negotiating their contracts, 
+- setting deadlines for them, evaluating performance, and 
+- ensuring payments are made.
+
+ It also entails familiarizing yourself with regulations like the Americans with Disabilities Act, if you're working in the US, for example. 
+
+ ---
+
+### The procurement process
+
+1. **First step** is initiating, which is the planning process of defining what help you may need outside of your current resources to hit the project goals. In this step, you will also make a case for getting extra resources via the procurement process. 
+
+2. Second is selecting, which entails deciding what supplies you need and which vendors you'll go through. 
+
+3. The third step is contract writing, which is where the contracts are developed, reviewed, and signed. 
+
+4. The fourth step is control, which is when you make payments, set up logistics and requirements to maintain quality, and ensure the service agreement is being met. 
+
+The fifth and final step is completing, which is where you measure the success of the procurement.
 
 
